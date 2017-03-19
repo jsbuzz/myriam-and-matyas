@@ -23,6 +23,9 @@ h1 {
     color: white;
     text-shadow: 2px 2px #777;
 }
+body.ios-version h1 {
+    font-family: Georgia, Arial, sans-serif;
+}
 
 h2 {
     font-family: "Great Vibes", "Helvetica Neue", Helvetica, Arial, sans-serif;
@@ -31,6 +34,9 @@ h2 {
     font-style: normal;
     color: #333;
     margin: 0;
+}
+body.ios-version h2 {
+    font-family: Georgia, Arial, sans-serif;
 }
 
 #body-backgrounds div {
