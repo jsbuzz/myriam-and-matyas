@@ -1,0 +1,147 @@
+
+body {
+    background-color: #777;
+}
+
+p {
+    font-family: Georgia, serif, Helvetica;
+    font-size: 1em;
+    line-height: 140%;
+    margin: 0;
+    margin-bottom: 20px;
+}
+
+h1 {
+    font-family: "Great Vibes", "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-weight: bold;
+    font-size: 53px;
+    font-style: normal;
+    line-height: 60px;
+    text-align: center;
+    padding: 0;
+    margin: 0;
+    color: white;
+    text-shadow: 2px 2px #777;
+}
+
+h2 {
+    font-family: "Great Vibes", "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-weight: bold;
+    font-size: 32px;
+    font-style: normal;
+    color: #333;
+    margin: 0;
+}
+
+#body-backgrounds div {
+    opacity: 0;
+    position: fixed;
+    left: 0;
+    top: 0;
+    right: 0;
+    bottom: 0;
+    background-size: cover;
+    background-repeat: no-repeat;
+    transition: opacity 4s;
+}
+
+#body-backgrounds div.active {
+    opacity: 1;
+}
+
+#title {
+    width: 600px;
+    margin: 20px auto;
+    margin-bottom: -20px;
+    padding: 20px;
+    position: relative;
+}
+
+#title strong {
+    display: block;
+    font-size: 30px;
+    font-style: normal;
+    text-align: center;
+    color: white;
+    text-shadow: 2px 2px #777;
+}
+
+.text-body {
+    width: 600px;
+    margin: 20px auto;
+    margin-bottom: 100px;
+    padding: 20px;
+    position: relative;
+}
+
+.text-background {
+    position: absolute;
+    left: 0;
+    top: 0;
+    right: 0;
+    bottom: 0;
+    background-color: #eee;
+    opacity: 0.85;
+}
+.text-background.floral {
+    background-color: #ECC376;
+    background-image: url('img/floral-print.jpg');
+    border-bottom: 3px dotted #fff;
+    background-position: -20px -17px;
+}
+
+.text-container {
+    position: absolute;
+    position: relative;
+}
+.text-container.title {
+    padding-top: 104px;
+    padding-right: 12px;
+}
+
+
+.corner-portrait {
+    position: absolute;
+    right: -55px;
+    top: -66px;
+    transform: rotate(30deg);
+    width: 110px;
+    height: 100px;
+    background-size: cover;
+    border: 2px solid #b9a076;
+    border-radius: 4px;
+}
+.corner-portrait.venue {
+    background-image: url('img/palmahaz.jpg');
+    background-position-x: -36px;
+}
+.corner-portrait.navigation {
+    background-image: url('img/navigation.jpg');
+    background-position-x: -12px;
+}
+.corner-portrait.gift {
+    background-image: url('img/gift.jpeg');
+    background-position-x: 12px;
+}
+
+.rounded {
+    border-radius: 8px;
+}
+
+.rounded-bottom {
+    border-bottom-left-radius: 8px;
+    border-bottom-right-radius: 8px;
+}
+
+.rounded-top {
+    border-top-left-radius: 8px;
+    border-top-right-radius: 8px;
+}
+
+.divider {
+    background-image: url(img/divider.svg);
+    height: 64px;
+    background-size: 50%;
+    background-position: 150px -72px;
+    background-repeat: no-repeat;
+}
