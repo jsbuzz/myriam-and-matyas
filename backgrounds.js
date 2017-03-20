@@ -6,15 +6,12 @@ function generateDOM(html) {
 }
 
 var backgrounds = isMobile
-    ? [
-        'circular',
+    ? [ 'circular',
         'croatia-sunset',
         'london',
         'sibenik',
-        'singapore-avatar-2',
-    ]
-    : [
-        'circular',
+        'singapore-avatar-2']
+    : [ 'circular',
         'croatia-sunset',
         'rome-bridge',
         'bath',
