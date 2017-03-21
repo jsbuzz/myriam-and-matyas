@@ -60,6 +60,7 @@ function changeBackground(direction) {
 }
 changeBackground();
 
+delete Hammer.defaults.cssProps.userSelect;
 new Hammer(document.body)
     .on('swipe', function(ev) {
     	changeBackground(ev.direction);

@@ -11,6 +11,10 @@ p {
     margin-bottom: 20px;
 }
 
+a {
+    color: navy;
+}
+
 h1 {
     font-family: "Great Vibes", "Helvetica Neue", Helvetica, Arial, sans-serif;
     font-weight: bold;
@@ -37,6 +41,14 @@ h2 {
 }
 body.ios-version h2 {
     font-family: Georgia, Arial, sans-serif;
+}
+
+.clear {
+    clear: both;
+}
+
+dl {
+    float: left;
 }
 
 #body-backgrounds div {
