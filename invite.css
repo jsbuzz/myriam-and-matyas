@@ -163,3 +163,36 @@ dl {
     background-position: 150px -72px;
     background-repeat: no-repeat;
 }
+
+.clear {
+    clear: both;
+}
+
+.hidden {
+    display: none;
+}
+
+.donation-container .donations {
+    float: left;
+    width: 32%;
+    margin-right: 12px;
+    padding-left: 36px;
+    padding-right: 8px;
+    box-sizing: border-box;
+    background-color: #eee;
+    height: 192px;
+    border-radius: 8px;
+}
+.donation-container .donations:last-child {
+    margin-right: 0;
+}
+
+.donations .bank-detail {
+    font-size: 12px;
+    font-family: monospace;
+}
+
+.donations strong {
+    margin-top: 10px;
+    display: block;
+}
