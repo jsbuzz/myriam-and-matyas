@@ -10,6 +10,13 @@ p {
     margin: 0;
     margin-bottom: 20px;
 }
+p.small {
+    font-size: 0.75em;
+    color: #3e3e3e;
+}
+p.small a {
+    color: #000;    
+}
 
 a {
     color: navy;
