@@ -1,2 +1,2 @@
 # In .htaccess in root dir
-RewriteRule "^(hu|fr)" "$1.html"
+RewriteRule "^/(hu|fr)" "/$1.html"
