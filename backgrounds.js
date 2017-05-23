@@ -1,3 +1,4 @@
+
 function generateDOM(html) {
     var parent = document.createElement('div');
     parent.innerHTML = html;
