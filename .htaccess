@@ -1,2 +1,4 @@
-# In .htaccess in root dir
+RewriteEngine On
+
+RewriteCond %{REQUEST_FILENAME} -f
 RewriteRule "^/(hu|fr)" "/$1.html"

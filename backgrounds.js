@@ -5,6 +5,12 @@ function generateDOM(html) {
     return parent.firstElementChild;
 }
 
+function addBackground(bg) {
+    document.querySelector('#body-backgrounds').appendChild(
+        generateDOM('<div style="background-image:url(\'backgrounds/' + bg + '.jpg\')">')
+    );
+}
+
 var backgrounds = isMobile
     ? [ 'circular',
         'croatia-sunset',
@@ -31,12 +37,21 @@ var backgroundTimerPeriod = 12000;
 var LEFT = 2, RIGHT = 4;
 
 var $backgrounds = document.querySelector('#body-backgrounds');
-backgrounds.forEach(function(bg) {
-    document.querySelector('#body-backgrounds').appendChild(
-        generateDOM('<div style="background-image:url(\'backgrounds/' + bg + '.jpg\')">')
-    );
-});
-$backgrounds.childNodes[0].className = 'active';
+(function() { // preload images async
+    var imgsToLoad = backgrounds.length;
+    backgrounds.forEach(function(bg) {
+        var img = new Image();
+        img.addEventListener('load', function() {
+            addBackground(bg);
+            if(!--imgsToLoad) {
+                $backgrounds.childNodes[0].className = 'active';
+                changeBackground();
+            }
+        }, false);
+        img.src = 'backgrounds/' + bg + '.jpg';
+    });
+})();
+
 var timerId = null;
 function changeBackground(direction) {
     if(timerId) {
@@ -58,7 +73,6 @@ function changeBackground(direction) {
 
     timerId = setTimeout(changeBackground, backgroundTimerPeriod);
 }
-changeBackground();
 
 delete Hammer.defaults.cssProps.userSelect;
 new Hammer(document.body)
