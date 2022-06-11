@@ -44,7 +44,7 @@ But if you are walking past and don't see a queue, do hop in for a cappuccino - 
 ### Belvarosi disznotoros
 -- [Google maps](https://www.google.com/maps/search/belvarosi+disznotoros/@47.4971424,19.054325,15.17z?authuser=1) --  
 A meat heavy experience in two great locations. It is a must try for lunch if you sausages are up your ally. My recommendation for 2 or 3 people:
-Order one friend red sausage (kolbász), one liver sausage (májas hurka) and one blood sausage (véres hurka) with the potatoes with onions (hagymás burgonya).
+Order one fried red sausage (kolbász), one liver sausage (májas hurka) and one blood sausage (véres hurka) with the potatoes with onions (hagymás burgonya).
 And if you like pickles they have a pickle bar where you can pick your fancy. You will need some to help digest all the sausages...
 Pro tip is to add a slice of bread and mustard, they go well.
 
