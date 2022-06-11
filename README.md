@@ -1,0 +1,42 @@
+# Budapest Birthday Bash
+
+Welcome to Budapest, traveller. Here you can find tips and tricks, places to go, things to do... The good stuff.
+
+## Restaurants
+
+Budapest has a buzzing restaurant scene with lots of fusion restaurants. But important to remember that it still has some tourist traps and mediocre
+eateries that are best to avoid.
+
+**If you don't know the restaurant, check the google reviews. If it is near a tourist place and plays live music, be suspicious :)**
+
+Here is a few exceptional places we collected over time:
+
+**Barack es Szilva**
+Cute little place in the city, has a French vibe about it. Their food never disappoints. You can honestly eat anything, they are all high quality.
+My favourite is the Chicken Paprikash with a glass of red wine - they can recommend one that goes well with your dish. Also their Foie Gras as a starter is to die for.
+
+**Little Budapest**
+Such an amazing place, great for late dinner and cocktails. Great vibe, friendly service and five star food. Their Gulyas soup is a champ, but you can eat anything.
+
+**Divin Porcello**
+A hidden little gem for meat lovers. This place specialises on meat, so I would recommend something heavy there :) Or a nice chicken soup or gulyas.
+
+**Kazimir bistro**
+Our old favourite place recently reopened! Super friendly service and each of their dishes are prepared with love and nice little Hungarian touch.
+
+**Vakvarju**
+It's a chain, the best one is the one near Deak Ter. It's an old favourite, never disappoints. You can try anything, it won't disappoint.
+
+**Vendiak**
+Best Chicken soup (Husleves) in town! Great little place with outside seating available, chill and nice vibes.
+
+**Cirkusz**
+Best brunch place in town. But it is always crazy busy. Maybe if you go early of late you might get a table.
+But if you are walking past and don't see a queue, do hop in for a cappuccino - their coffee is to die for. They roast their own coffee beans.
+
+**Belvarosi disznotoros**
+A meat heavy experience in two great locations. It is a must try for lunch if you sausages are up your ally. My recommendation for 2 or 3 people:
+Order one friend red sausage (kolbász), one liver sausage (májas hurka) and one blood sausage (véres hurka) with the potatoes with onions (hagymás burgonya).
+And if you like pickles they have a pickle bar where you can pick your fancy. You will need some to help digest all the sausages...
+Pro tip is to add a slice of bread and mustard, they go well.
+
