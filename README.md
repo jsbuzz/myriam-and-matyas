@@ -25,7 +25,7 @@ On Saturday night we are going to TABLE Suite Restaurant & Event Space [ℹ️](
 ## Program
 
 ### Friday 17th
-- Walk in Budapest & Dinner (under planning, please ping Myriam or myself and let us know if you want to join)
+- Walk in Budapest & Dinner (under planning)
 - Night bathing at Rudas [ℹ️](https://goo.gl/maps/ZNJWSGvdPwASDKyj6) from 22:30.
 
 ### Saturday 18th
