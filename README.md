@@ -31,7 +31,7 @@ On Saturday night we are going to TABLE Suite Restaurant & Event Space [ℹ️](
 ### Saturday 18th
 - Salsa Brunch
 - Margaret Island outing
-- Dinner and Party from 18:00 [ℹ️](https://goo.gl/maps/H6CZFwVPv2NXRjWm7) - it is going to be a buffet style dinner with lots of tapas style dishes. Food and soft drinks are free, but there will be a bar where a cocktail whisperer is going to make us all regret this party the next day... But there you can buy (💳 & 💵) alcoholic beverages and cocktails.
+- Dinner and Party from 18:00 [ℹ️](https://goo.gl/maps/H6CZFwVPv2NXRjWm7) - it is going to be a buffet style dinner with lots of tapas style dishes.
 
 ### Sunday 19th
 - Salsa in the park ~4pm
