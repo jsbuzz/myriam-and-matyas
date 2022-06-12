@@ -67,7 +67,8 @@ At the real beating heart of Budapest is St. Stephen's Basilica, a beatiful sigh
 The Central Park of Budapest, you can rent 4 seater bikes and other funky ways of transportation and explore. Lots of gardens, weird hobbies on display, people chilling, playing sports, having a picnic. Nice walk on a nice day or evening.
 
 ### Baths
-Budapest is famous for its baths. The main one is Szechenyi, which will wow you with its facilities and architecture. The oldest one is Rudas, which has an old Turkish bath on one side and some modern facilities on the other. There is also Gellert, which is actually more interesting on a hot day with its outdoor pools and nice vibes.
+![gellert](https://user-images.githubusercontent.com/2463801/173242102-6e6eb738-251d-4397-a5c2-8d81a179f30c.jpeg)
+Budapest is famous for its baths. The main one is Szechenyi [ℹ️](https://goo.gl/maps/JWGaosx3yFaDHLa28), which will wow you with its facilities and architecture. The oldest one is Rudas [ℹ️](https://goo.gl/maps/CmXoHkWzgC3ECbkr6), which has an old Turkish bath on one side and some modern facilities on the other. There is also Gellert [ℹ️](https://goo.gl/maps/QXQa5UjCkxyoqUzU8), which is actually more interesting on a hot day with its outdoor pools and nice vibes.
 
 ### Chair lift to the nearby mountain
 https://bkk.hu/en/travel-information/public-transport/chairlift/
