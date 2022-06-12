@@ -11,7 +11,7 @@ On Saturday night we are going to TABLE Suite Restaurant & Event Space [ℹ️](
 
 🧉 There will be a bar where a cocktail whisperer is going to make us all regret this party the next day... But there you can buy (💳 & 💵) alcoholic beverages and cocktails to get the juices flowing.
 
-👘 Dress smart casual, but if you fancy you can go all out. It's going to be a mix, I myself will opt for a chino & shirt. Take a look at some photos of the venue and choose something that works for you.
+👘 Dress smart casual, but if you fancy you can go all out. It's going to be a mix, I myself will opt for a chinos & shirt combo probably. Take a look at some photos of the venue and choose something that works for you.
 
 🕕 Party starts at 6pm with drinks.
 ```
@@ -22,7 +22,7 @@ On Saturday night we are going to TABLE Suite Restaurant & Event Space [ℹ️](
 ```
 
 
-## Program
+## Program for travellers
 
 ### Friday 17th
 - Walk in Budapest & Dinner (under planning)
