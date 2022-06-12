@@ -3,6 +3,8 @@
 Welcome to Budapest, traveller. Here you can find tips and tricks, places to go, things to do... The good stuff.
 
 ## The Party
+![table-budapest](https://user-images.githubusercontent.com/2463801/173239176-209491a5-65b3-42f9-9427-a7ce0c1e0330.jpeg)
+
 On Saturday night we are going to TABLE Suite Restaurant & Event Space [ℹ️](https://goo.gl/maps/H6CZFwVPv2NXRjWm7) and have food and cocktails. It is a private event venue booked only for us, food and soft drinks are free for the guests - buffet style.
 
 🏠 The address is *Budapest, Király u. 53* 3rd floor. There is a buzzer for the venue if the door is not open. It is a residential building, it used to be a large flat that was then converted to this event space and restaurant.
