@@ -9,6 +9,8 @@ On Saturday night we are going to TABLE Suite Restaurant & Event Space [ℹ️](
 
 🧑🏽‍🤝‍🧑🏽 Only amazing people, it is the perfect mixture of family and friends. A few children might be running around speaking all sorts of languages...
 
+🎁 Please fight the urge to bring birthday presents, what we want the most above all is to spend time with you. So wrap yourself in a big smile and deliver this on Saturday from 6pm onwards 😎
+
 🧉 There will be a bar where a cocktail whisperer is going to make us all regret this party the next day... But there you can buy (💳 & 💵) alcoholic beverages and cocktails to get the juices flowing.
 
 👘 Dress smart casual, but if you fancy you can go all out. It's going to be a mix, I myself will opt for a chinos & shirt combo probably. Take a look at some photos of the venue and choose something that works for you.
