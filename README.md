@@ -2,6 +2,26 @@
 
 Welcome to Budapest, traveller. Here you can find tips and tricks, places to go, things to do... The good stuff.
 
+## The Party
+On Saturday night we are going to TABLE Suite Restaurant & Event Space [ℹ️](https://goo.gl/maps/H6CZFwVPv2NXRjWm7) and have food and cocktails. It is a private event venue booked only for us, food and soft drinks are free for the guests - buffet style.
+
+🏠 The address is *Budapest, Király u. 53* 3rd floor. There is a buzzer for the venue if the door is not open. It is a residential building, it used to be a large flat that was then converted to this event space and restaurant.
+
+🧑🏽‍🤝‍🧑🏽 Only amazing people, it is the perfect mixture of family and friends. A few children might be running around speaking all sorts of languages...
+
+🧉 There will be a bar where a cocktail whisperer is going to make us all regret this party the next day... But there you can buy (💳 & 💵) alcoholic beverages and cocktails to get the juices flowing.
+
+👘 Dress smart casual, but if you fancy you can go all out. It's going to be a mix, I myself will opt for a chino & shirt. Take a look at some photos of the venue and choose something that works for you.
+
+🕕 Party starts at 6pm with drinks.
+```
+6pm - 7pm     Welcome drinks
+7pm - 9pm     Food is served
+9pm - 1:30am  Socialising, dancing, see where the night takes us
+2amish        The adequately lubricated will explore the area for some Afterparty opportunities
+```
+
+
 ## Program
 
 ### Friday 17th
@@ -11,7 +31,7 @@ Welcome to Budapest, traveller. Here you can find tips and tricks, places to go,
 ### Saturday 18th
 - Salsa Brunch
 - Margaret Island outing
-- Dinner and Party from 18:00 [ℹ️](https://goo.gl/maps/H6CZFwVPv2NXRjWm7) - it is going to be a buffet style dinner with lots of tapas style dishes. Food and soft drinks are included, but there will be a bar where a professional cocktail magician is going to make us all regret this party the next day... But there you can buy (💳 & 💵) alcoholic beverages and cocktails.
+- Dinner and Party from 18:00 [ℹ️](https://goo.gl/maps/H6CZFwVPv2NXRjWm7) - it is going to be a buffet style dinner with lots of tapas style dishes. Food and soft drinks are free, but there will be a bar where a cocktail whisperer is going to make us all regret this party the next day... But there you can buy (💳 & 💵) alcoholic beverages and cocktails.
 
 ### Sunday 19th
 - Salsa in the park ~4pm
