@@ -85,7 +85,6 @@ Also noteworthy cafes:
 - Kaffeine [ℹ️](https://goo.gl/maps/u5RgvxLrNrueP5Ux5)
 - Madal (chain) [ℹ️](https://www.google.com/maps/search/Madal/@47.5045247,19.0542187,16.74z?authuser=1)
 - Brew Brothers [ℹ️](https://goo.gl/maps/h38qmxXH3A92RDRg6)
-- Mr Bean's [ℹ️](https://goo.gl/maps/u14gTF38tJBvAStQ6)
 - Fekete [ℹ️](https://goo.gl/maps/5TWvaJswtJsyKCK48)
 
 ## Restaurants
@@ -104,16 +103,12 @@ My favourite is the Chicken Paprikash with a glass of red wine - they can recomm
 ### Little Budapest
 Such an amazing place, great for late dinner and cocktails. Great vibe, friendly service and five star food. Their Gulyas soup is a champ, but you can eat anything. [ℹ️](https://g.page/littlebudapestrestaurantpianobar?share)
 
-### Divin Porcello
-A hidden little gem for meat lovers. This place specialises on meat, so I would recommend something heavy there :) Or a nice chicken soup or gulyas.
-[ℹ️](https://goo.gl/maps/wsyi3Z7c65wPBmJu5)
+### Vendiak
+Best Chicken soup (Husleves) in town! Great little place with outside seating available, chill and nice vibes. [ℹ️](https://g.page/Vendiak?share)
 
 ### Kazimir bistro
 Our old favourite place recently reopened! Super friendly service and each of their dishes are prepared with love and nice little Hungarian touch.
 [ℹ️](https://g.page/kazimirbistro?share)
-
-### Vendiak
-Best Chicken soup (Husleves) in town! Great little place with outside seating available, chill and nice vibes. [ℹ️](https://g.page/Vendiak?share)
 
 ### Vakvarju
 It's a chain, the best one is the one near Deak Ter. It's an old favourite, never disappoints. You can try anything, it won't disappoint.  
@@ -124,9 +119,13 @@ Best brunch place in town. But it is always crazy busy. Maybe if you go early of
 But if you are walking past and don't see a queue, do hop in for a cappuccino - their coffee is to die for. They roast their own coffee beans.
 [ℹ️](https://goo.gl/maps/MkeYcPdSUWEAZqV6A)
 
+### Divin Porcello
+A hidden little gem for meat lovers. This place specialises on meat, so I would recommend something heavy there :) Or a nice chicken soup or gulyas.
+[ℹ️](https://goo.gl/maps/wsyi3Z7c65wPBmJu5)
+
 ### Belvarosi disznotoros
 A meat heavy experience in two great locations. It is a must try for lunch if you sausages are up your ally. My recommendation for 2 or 3 people:
 Order one fried red sausage (kolbász), one liver sausage (májas hurka) and one blood sausage (véres hurka) with the potatoes with onions (hagymás burgonya).
 And if you like pickles they have a pickle bar where you can pick your fancy. You will need some to help digest all the sausages...
-Pro tip is to add a slice of bread and mustard, they go well.
+Also add some mustard, that's how the locals eat it.
 [ℹ️](https://www.google.com/maps/search/belvarosi+disznotoros/@47.4971424,19.054325,15.17z?authuser=1)
