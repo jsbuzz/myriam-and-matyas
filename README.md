@@ -99,10 +99,6 @@ Here are a few exceptional places we collected over the last couple of years:
 Cute little place in the city, has a French vibe about it. Their food never disappoints. You can honestly eat anything, they are all high quality.
 My favourite is the Chicken Paprikash with a glass of red wine - they can recommend one that goes well with your dish. Also their Foie Gras as a starter is to die for. [ℹ️](https://goo.gl/maps/neN8PeSJpeRUUaCo8)
 
-
-### Little Budapest
-Such an amazing place, great for late dinner and cocktails. Great vibe, friendly service and five star food. Their Gulyas soup is a champ, but you can eat anything. [ℹ️](https://g.page/littlebudapestrestaurantpianobar?share)
-
 ### Vendiak
 Best Chicken soup (Husleves) in town! Great little place with outside seating available, chill and nice vibes. [ℹ️](https://g.page/Vendiak?share)
 
@@ -124,7 +120,7 @@ A hidden little gem for meat lovers. This place specialises on meat, so I would 
 [ℹ️](https://goo.gl/maps/wsyi3Z7c65wPBmJu5)
 
 ### Belvarosi disznotoros
-A meat heavy experience in two great locations. It is a must try for lunch if you sausages are up your ally. My recommendation for 2 or 3 people:
+A meat heavy experience in two great locations. It is a must try for lunch if sausages are up your ally. My recommendation for 2 or 3 people:
 Order one fried red sausage (kolbász), one liver sausage (májas hurka) and one blood sausage (véres hurka) with the potatoes with onions (hagymás burgonya).
 And if you like pickles they have a pickle bar where you can pick your fancy. You will need some to help digest all the sausages...
 Also add some mustard, that's how the locals eat it.
